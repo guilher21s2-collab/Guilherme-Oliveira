@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Paulo Guilherme
+# 👋 Olá! Eu sou Guilherme Oliveira
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor em formação com foco em programação, IA, sistemas web e soluções digitais  
